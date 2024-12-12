@@ -8,7 +8,7 @@ An interactive chatbot application for simplifying data analysis and visualizati
 
 - **📁 Dataset Upload**:
   - Upload Excel datasets (.xlsx) directly through the chatbot interface.
-  - Uploaded datasets are securely stored in the `/datasets/raw/` directory.
+  - Uploaded datasets are securely stored in the `/Sample datasets` directory.
 
 - **📄 Dataset Summary**:
   - Automatic generation of dataset summaries, including:
@@ -79,15 +79,10 @@ pip install -r requirements.txt
 
 Follow the official Ollama CLI installation guide.
 
-📂 Create necessary directories:
-bash
-Copy code
-mkdir -p datasets/raw datasets/summaries visualizations
-
 🚀 Run the application:
 bash
 Copy code
-python -m app.chatbot
+python data_visualization_chatbot.py
 
 🌐 Access the chatbot:
 Open your browser and navigate to: http://127.0.0.1:7860.
