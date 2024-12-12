@@ -25,7 +25,7 @@ An interactive chatbot application for simplifying data analysis and visualizati
 
 - **🤖 Automated Visualization Generation**:
   - Generate visualizations automatically based on user requests.
-  - Visualizations are stored in the `/visualizations/` directory for future reference.
+  - Visualizations are stored in the same directory for future reference.
 
 - **🔍 Insights from Visualizations**:
   - Upload generated visualizations to receive insights such as:
