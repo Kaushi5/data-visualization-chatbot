@@ -113,7 +113,7 @@ Upload multiple visualizations for combined insights and dynamic outputs.
 
 
 
-**🔮**Future Scope**
+**🔮Future Scope**
 
 📡 Real-Time Data Streaming:
 Add support for real-time data ingestion and dynamic visualization updates.
